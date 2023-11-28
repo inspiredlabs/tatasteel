@@ -1,12 +1,4 @@
-###### usage: python3 ./mauw.py ######
-
-# reprompt.py prompting with small pieces (4096 - 888), resulting in `3208` output tokens.
-# add to this: https://github.com/emmethalm/infiniteGPT/issues
-# from: https://twitter.com/ehalm_/status/1655535249290571777
-
-# reprompt.py prompting with small pieces (4096 - 888), resulting in `3208` output tokens.
-# add to this: https://github.com/emmethalm/infiniteGPT/issues
-# from: https://twitter.com/ehalm_/status/1655535249290571777
+###### usage: python3 ./gen.py ######
 
 import openai
 from concurrent.futures import ThreadPoolExecutor # Installed by default
@@ -63,3 +55,9 @@ if __name__ == "__main__":
     process_chunks(input_file, output_file)
 
 # Can take up to a few minutes to run depending on the size of your data input
+
+# Need help troubleshooting?
+
+# `reprompt.py` prompting with small pieces (4096 - 888), resulting in `3208` output tokens.
+# add to this: https://github.com/emmethalm/infiniteGPT/issues
+# from: https://twitter.com/ehalm_/status/1655535249290571777
