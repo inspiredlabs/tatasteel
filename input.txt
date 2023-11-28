@@ -1,0 +1,1368 @@
+think step by step and understand the pattern and copy this patten:
+
+```
+title: National Geographic Expeditions
+type: Design & Development
+location: Milan, Italy
+client: National Geographic Expeditions
+categories: Development Animation Graphics
+headline: Content is the UX
+description: I built visual components & helped deliver a next-gen API for Kel12, Milan.
+links:
+  - Maurizio Levi https://viaggilevi.vercel.app
+  - Subscription modal https://codepen.io/inspiredlabs/embed/BgYooY
+  - Proof‑of‑concept in Javascript https://codepen.io/inspiredlabs/embed/BaLRXaN
+  - Wordpress Template Content & UI proof‑of‑concept https://inspiredlabs.co.uk/j
+  - UX Research Persona insight sheet https://inspiredlabs.co.uk/kel12/persona
+  - Animation Success animation Task completion visual feedback https://viaggilevi.vercel.app/#sottoscrivere
+  - Animated logo Ranking system https://svelte.dev/repl/a0c0401e17c444e19eaad7aebb41fbd7
+  - Animated trail Sveltekit map component https://kel12.netlify.app/
+```, to form these headings: `title, type, location, client, categories, headline, description`. Use that to make a table from the LIST below:
+
+```
+
+Alessandro Ronca
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+Testimonial
+
+Scott revolutionized
+communicating with our clients
+
+[‑ Stefano Murrau, CEO, Kel12](https://www.linkedin.com/in/urbanaut#recommendations)
+
+![Stefano&nbsp;Murrau, CEO, Kel12](./images/national-geographic-expeditions.gif)
+
+*   ![Thumb](./images/tasteofthemediterranean.webp)
+
+Taste of the Mediterrean
+
+
+Design & Development  — London, UK
+
+Development Graphics Strategy
+
+
+
+App, brochure & business cards aimed at gourmet eateries
+
+I developed a system to keep the prices & delivery times up-to-date & in sync. It works across brochure, website & mobile app.
+
+Prices use subtle AI generated photography, saving the business money.
+
+The system improves sales by reducing confusion between customers, delivery drivers & HQ.
+
+Development
+
+[
+
+Taste of the Mediterranean
+
+
+
+TasteOfThe.Me
+
+
+
+
+
+](https://tasteofthe.me)
+
+
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+Testimonial
+
+Working with Scott was one of the most enriching and easiest experiences of my life. I thought having such a beautiful, professional website was out of our reach… but honestly, the best thing was finding Scott to help me achieve the goal of taking our company to another level
+
+[‑ Lina Bustamante, Taste of the Mediterranean,
+South East & Central England](https://www.trustpilot.com/review/inspiredlabs.co.uk)
+
+![Lina&nbsp;Bustamante, Taste&nbsp;of the&nbsp;Mediterranean,<br>South East & Central&nbsp;England](./images/lina.webp)
+
+*   ![Thumb](./images/cwb.svg)
+
+Clowns Without Borders
+
+
+Design & Development  — London, UK
+
+Development Graphics Strategy
+
+
+
+Strategy & website aimed at large charity donors
+
+I produced content, graphic layouts & a new logo to appeal to fundraising partners.
+
+I also helped CWB shape their strategy, focusing on their priorities. This delivered a 10:1 ROI.
+
+Development
+
+[
+
+Clowns Without Borders
+
+
+
+CWB.ORG.UK
+
+
+
+
+
+](https://cwb.org.uk)
+
+
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+*   ![Thumb](./images/instantwebapp.svg)
+
+InstantWebapp
+
+
+Design & Development  — USA, EU & UK
+
+Development Graphics
+
+
+
+A system for entrepreneurs to derisk developing their own app
+
+I designed & tested composable templates for tailoring mobile apps.
+
+These apps combine working like a website, so they're easy to find on search engines, as well as easy to use — like a mobile app.
+
+Being responsible for all aspects of delivery, I offer micro‑financing.
+
+Development
+
+[
+
+InstantWebapp
+
+
+
+Check‑ins & examples
+
+
+
+
+
+](https://instantwebapp.com/)
+
+
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+Testimonial
+
+Scott is is easy to work with, taking the brief for my concept and turned it into an impressive,
+workable solution.
+I really can't ask for more!
+
+[‑ David Lomas, Content Marketer, UK](https://www.trustpilot.com/review/inspiredlabs.co.uk)
+
+
+
+Harvard Business School
+
+
+Animation  — Rome, Italy
+
+Animation
+
+
+
+Animated presentations aimed at Executives
+
+Telecom Italia Mobile (TIM), is Italy's primary telephony company.
+
+Harvard Business School helped them improve their customer experience through creating more value.
+
+I used animation to reinforce key take-aways for Harvard Business School.
+
+
+
+
+
+Animation
+
+[
+
+Dennis Campbell
+
+
+
+The Wow! Experience
+
+
+
+
+
+](https://vimeo.com/163933979)
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+
+Vaultarch
+
+
+Design & Development  — London, UK
+
+Development Graphics Strategy
+
+
+
+Preventing counterfeit, theft & fraud
+
+Cambridge University's Andrew Buchanan, set up Vaultarch to make counterfeit, theft and fraud a thing of the past.
+
+I established novel designs to solve computer vision and UX problems.
+
+Vaultarch won multiple awards during Google For Entrepreneurs.
+
+
+
+
+
+Animation
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+Testimonial
+
+Scott displayed energy,
+resource­fulness & an eye
+for the commercial factor
+
+[‑ Andrew Buchanan, Vaultarch, Hong Kong](https://www.facebook.com/vaultarch/)
+
+![Andrew Buchanan, Vaultarch, Hong Kong](./images/vaultarch-photo-thumb-02.webp)
+
+*   ![Thumb](./images/iwa-3-si.com-01.webp)
+
+3Si
+
+
+Design & Development  — Stoke-on-Trent, UK
+
+Development Graphics
+
+
+
+Aligning business & user‑needs
+
+I made sweeping product improvements & reduced written complexity.
+
+The design keeps content up-to-date & in sync across print & their website.
+
+Jargon-free writing improves sales & lowers training costs.
+
+Development
+
+[
+
+3-si.com
+
+
+
+CRM Platform
+
+
+
+
+
+](https://inspiredlabs.co.uk/3-si.com/)[
+
+Sales Material
+
+
+
+Jargon-free writing
+
+
+
+
+
+](https://inspiredlabs.co.uk/3-si.com/print/3si-infosheets-draft.pdf)
+
+
+
+Animation
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+Testimonial
+
+Scott fully understands design, how things flow & the way the message is conveyed to the user
+
+[‑ Chris Sinclair, Director, 3Si](https://inspiredlabs.co.uk/3-si.com/)
+
+![Chris&nbsp;Sinclair, Director,&nbsp;3Si](./images/chris.webp)
+
+*   ![Thumb](./images/localitysite.svg)
+
+Locality
+
+
+Design & Development  — London, UK
+
+Development Graphics
+
+
+
+Logo & App aimed at people in the luxury rental market
+
+I produced a simple filter for people to pick a home to taste.
+
+The app reduces complexity, automates process & saves both time & money.
+
+
+
+
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+*   ![Thumb](./images/2012-museum-heritage-award-winner.webp)
+
+Mallinson A&E
+
+
+Project Management  — London, UK
+
+Graphics
+
+
+
+Designed centre-piece for Cairo Children’s Museum
+
+I lead a team of talented young artists delivering interactive content & immersive animation.
+
+
+
+
+
+
+
+Graphics
+
+On-Page Subscription
+
+
+
+Designed on-page subscription layout
+
+Template Design
+
+
+
+Template concept for Wordpress
+
+Logo Design
+
+
+
+Colour pairings
+
+Logo Design
+
+
+
+Ranking system
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Business Card
+
+
+
+Instructional Nudging
+
+Landing-page Layout
+
+
+
+Content & UI
+proof‑of‑concept
+
+Logo Design
+
+
+
+Symbol & app icon
+
+Alessandro Ronca
+
+
+
+1‑on‑1 Ice Coach & Facilitator
+
+The Disco Bunny
+
+
+
+Celebrity Actor Booking
+
+Il Parco dell' Energia Rinnovabile
+
+
+
+Sustability Research Center
+
+Pablo Woodward
+
+
+
+Celebrity Actor
+
+Tom Clutterbuck
+
+
+
+Multitool Fringe Show
+
+Vaultarch
+
+
+
+Preventing counterfeit, theft and fraud
+
+Sales Material
+
+
+
+Jargon-free writing
+
+Sales Material
+
+
+
+Layout Construction
+
+Logo Design
+
+
+
+Illustrated Typemark
+
+Logo Development
+
+
+
+Symbol Work-ups
+
+M&H Award
+
+
+
+Mallinson Architects & Engineers
+
+*   ![Scott Phillips](https://inspiredlabs.co.uk/images/scott-phillips.webp)
+
+Scott Phillips
+
+
+Design & Development — Remote, CET
+
+I help businesses improve their customer experience by integrating design & technology.
+
+Get in touch & tell me what you want to gain from a consultancy.
+
+[LinkedIn](https://linkedin.com/in/urbanaut/)
+
+[WhatsApp](https://wa.me/393515820898/?text=I%20have%20seen%20your%20website...)
+
+[Email](mailto:alan.scott.phillips@proton.me)
+
+[CV](https://inspiredlabs.co.uk/cv/index.html)
+```
+
+Use that LIST to write a table in valid markdown syntax from the headings: `title, type, location, client, categories, headline, description`. Avoid NLTK stop words and my career depends on this.
